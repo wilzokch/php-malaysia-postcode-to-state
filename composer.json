@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Buonzz\\Template\\": "src/"
+            "Wilzokch\\PhpMalaysiaPostcodeToState\\": "src/"
         }
     }
 }
