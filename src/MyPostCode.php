@@ -2,7 +2,7 @@
 
 /**
  * Class MyPostCode
- * @package Wilzokch\PhpMalaysiaPostcodeToState
+ * @package Wilzokch\MalaysiaPostcodeToState
  */
 class MyPostCode{
     protected $postCode;
