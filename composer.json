@@ -2,7 +2,7 @@
     "name": "wilzokch/php-malaysia-postcode-to-state",
     "description": "PHP library that convert Malaysia post code into state.",
     "keywords": ["template", "composer", "package"],
-    "license": "SPDX",
+    "license": "GPL-3.0-or-later",
     "authors": [
         {
             "name": "Wilzo KCH",
