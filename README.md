@@ -3,7 +3,7 @@ PHP Library - Convert Malaysia Post Code to State
 
 This library will convert Malaysia Post Code to State
 
-Composer
+Installation via "composer require"
 --------
 <pre>
     composer require wilzokch/php-malaysia-postcode-to-state
