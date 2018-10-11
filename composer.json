@@ -11,12 +11,12 @@
     ],
     "type": "project",
     "require": {
-		"php": ">=7.1"
+		"php": ">=5.4"
     },
-    "require-dev": {
-		"phpunit/phpunit": "6.*"
+	"require-dev": {
+		"phpunit/phpunit": "5.2.*"
     },
-    "autoload": {
+	"autoload": {
         "psr-4": {
             "Wilzokch\\PhpMalaysiaPostcodeToState\\": "src/"
         }
