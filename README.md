@@ -6,7 +6,7 @@ This library will convert Malaysia Post Code to State
 Example
 --------
 <pre><code>
-    use Wilzokch\PhpMalaysiaPostcodeToState\MyPostCode;
+    use Wilzokch\MalaysiaPostcodeToState\MyPostCode;
     
     $postCode = new MyPostCode('84000');
     

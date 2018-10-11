@@ -18,7 +18,7 @@
     },
 	"autoload": {
         "psr-4": {
-            "Wilzokch\\PhpMalaysiaPostcodeToState\\": "src/"
+            "Wilzokch\\MalaysiaPostcodeToState\\": "src/"
         }
     }
 }

@@ -1,6 +1,6 @@
 <?php 
 use PHPUnit\Framework\TestCase;
-use Wilzokch\PhpMalaysiaPostcodeToState\MyPostCode;
+use Wilzokch\MalaysiaPostcodeToState\MyPostCode;
 
 class MyPostCodeTest extends TestCase
 {

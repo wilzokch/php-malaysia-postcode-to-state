@@ -1,4 +1,4 @@
-<?php namespace Wilzokch\PhpMalaysiaPostcodeToState;
+<?php namespace Wilzokch\MalaysiaPostcodeToState;
 
 /**
  * Class MyPostCode
