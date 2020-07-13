@@ -18,3 +18,8 @@ Example
     
     echo $postCode->getState(); // you will get "Johor" 
 </code></pre>
+
+References
+--------
+1. https://en.wikipedia.org/wiki/Postal_codes_in_Malaysia
+2. https://track.pos.com.my/postal-services/quick-access/?postcode-finder
