@@ -14,7 +14,7 @@ class MyPostCode{
 
     /**
      * Check first two digits in post code
-     * eg. isBetween(5, 9) = post code between 05000 & 06000
+     * eg. isBetween(5, 9) = post code between 05000 & 06999
      * @param $min
      * @param int $max
      * @return bool
