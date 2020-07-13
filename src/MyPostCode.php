@@ -12,6 +12,13 @@ class MyPostCode{
         $this->setPostCode($postCode);
     }
 
+    /**
+     * Check first two digits in post code
+     * eg. isBetween(5, 9) = post code between 05000 & 06000
+     * @param $min
+     * @param int $max
+     * @return bool
+     */
     protected function isBetween($min, $max = -1) {
         if ($max == -1) $max = $min;
         $firstTwo =  intval(substr($this->postCode, 0, 2));
