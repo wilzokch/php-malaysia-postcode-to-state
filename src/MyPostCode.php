@@ -30,9 +30,11 @@ class MyPostCode{
         if($this->isBetween(1, 2)) {
             $this->state = 'Perlis';
         } else if($this->isBetween(5, 9)
-            || $this->postCode === '14290'
-            || $this->postCode === '14390'
-            || $this->postCode === '34950') {
+            || in_array($this->postCode, [
+                '14290',
+                '14390',
+                '34950'
+            ])) {
             $this->state = 'Kedah';
         } else if($this->isBetween(10, 14)) {
             $this->state = 'Penang';
