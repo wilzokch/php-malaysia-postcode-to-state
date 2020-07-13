@@ -1,7 +1,7 @@
-PHP Library - Convert Malaysia Post Code to State
+PHP Library - Convert Malaysia Postal Code to State
 =========================
 
-This library will convert Malaysia Post Code to State
+This library will convert Malaysia Postal Code to State
 
 Installation via "composer require"
 --------
