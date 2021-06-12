@@ -1,6 +1,8 @@
 PHP Library - Convert Malaysia Postal Code to State
 =========================
 
+ ![php 5.5+](https://img.shields.io/badge/php-5.5+-brightgreen.svg?style=flat&logo=php&labelColor=777BB4&logoColor=white&color=lightgrey) ![author](https://img.shields.io/badge/author-kch-brightgreen.svg?style=flat&logo=bitbucket&color=lightgrey)
+
 This library will convert Malaysia Postal Code to State
 
 Installation via "composer require"
